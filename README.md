@@ -1,7 +1,12 @@
 Hi there 👋
 I'm a Mobile App Developer.
 
-![ThankGod's github stats](https://github-readme-stats.vercel.app/api?username=k1ycee&show_icons=true&theme=dracula)
+<a href="https://github.com/ichtrojan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=k1ycee&theme=nord&show_icons=true&count_private=true&hide=contribs&line_height=40" />
+</a>
+<a href="https://github.com/ichtrojan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1ycee&theme=nord&langs_count=4&hide=javascript,html,css,erlang" />
+</a>
   <img src="https://gpvc.arturio.dev/k1ycee" width="auto" height="auto"/>
 [![Status for @k1ycee](https://badge.stateful.com/k1ycee/status.svg)](https://app.stateful.com/@k1ycee)
 [![Status for @k1ycee](https://badge.stateful.com/k1ycee/dnd.svg)](https://app.stateful.com/@k1ycee)
