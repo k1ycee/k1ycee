@@ -2,10 +2,7 @@ Hi there 👋
 I'm a Mobile App Developer.
 
 <a href="https://github.com/k1ycee">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=k1ycee&theme=nord&show_icons=true&count_private=false&line_height=40" />
-</a>
-<a href="https://github.com/k1ycee">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1ycee&theme=nord&langs_count=4&hide=javascript,html,css,erlang" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1ycee&theme=nord&langs_count=4&hide=html,css,erlang" />
 </a>
   <img src="https://gpvc.arturio.dev/k1ycee" width="auto" height="auto"/>
  
