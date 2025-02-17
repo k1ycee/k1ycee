@@ -13,7 +13,7 @@ I'm a Mobile Engineer with expertise in the Flutter framework, I am currently fr
 
 <p align="center">
   <a href="http://x.com/udaya_kenpachi">
-    <img src="https://img.shields.io/twitter/follow/egeblc?label=Twitter&logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/x/follow/egeblc?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
   <a href="https://github.com/k1ycee?tab=followers">
     <img src="https://img.shields.io/github/followers/egebalci?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
