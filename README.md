@@ -3,7 +3,7 @@ Hi there 👋
 
 ### Hi there 👋
 
-I'm a Mobile Engineer with expertise in the flutter framework, I am currently freelancing as a mobile engineer, while I have periods of doing nothing I try to dable, I even dabled my way to a Certified Cybersecurity Technician(CCT) from EC-Council, Well now you're here take your time to look around you may find something interesting.
+I'm a Mobile Engineer with expertise in the Flutter framework, I am currently freelancing as a mobile engineer, while I have periods of doing nothing I try to dable, I even dabled my way to a Certified Cybersecurity Technician(CCT) from EC-Council, Well now you're here take your time to look around you may find something interesting.
 
 :notebook: ***Blog***
 - [Medium](https://medium.com/@chiagozieani145)
