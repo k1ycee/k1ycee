@@ -9,7 +9,7 @@ I'm a Mobile Engineer with expertise in the flutter framework, I am currently fr
 - [Medium](https://medium.com/@chiagozieani145)
 
 
-<p align="center"><img width="50%" src="https://media.giphy.com/media/NaxKt9aSzAspO/giphy.gif" /></p>
+<p align="center"><img width="50%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWExaGo3bzFvcXZnMWtoM2w0NmVsMWMxOHJtcWx0aWphazJ4YXA1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/M1oPO3TchPJS/giphy.gif" /></p>
 
 <p align="center">
   <a href="http://x.com/udaya_kenpachi">
@@ -30,12 +30,9 @@ I'm a Mobile Engineer with expertise in the flutter framework, I am currently fr
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=k1ycee&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark&card_width=500" /></p>
 
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1ycee&layout=compact&theme=dark&card_width=1000&hide_border=true&hide=pascal" /></p>
-<!-- I stole this README design from https://github.com/egebalci and I didn't even look at the markdown :P -->
 
 
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/> 
  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/k1ycee) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thankgod-chiagozie-5a4b09195/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/udaya_kenpachi) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/11623001/denzel)
