@@ -32,11 +32,6 @@ I'm a Mobile Engineer with expertise in the Flutter framework, I am currently fr
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1ycee&layout=compact&theme=dark&card_width=1000&hide_border=true&hide=pascal" /></p>
 
 
-### Tracked coding time 
-[![wakatime](https://wakatime.com/badge/user/032b114b-39bf-4495-b653-86bea2ae9efc.svg)](https://wakatime.com/@032b114b-39bf-4495-b653-86bea2ae9efc)
 
-
-
- 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/k1ycee) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thankgod-chiagozie-5a4b09195/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/udaya_kenpachi) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/11623001/denzel)
