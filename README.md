@@ -32,6 +32,9 @@ I'm a Mobile Engineer with expertise in the Flutter framework, I am currently fr
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1ycee&layout=compact&theme=dark&card_width=1000&hide_border=true&hide=pascal" /></p>
 
 
+[![wakatime](https://wakatime.com/badge/user/032b114b-39bf-4495-b653-86bea2ae9efc.svg)](https://wakatime.com/@032b114b-39bf-4495-b653-86bea2ae9efc)
+
+
 
  
 
